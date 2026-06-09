@@ -5,3 +5,4 @@ data/
 models/*.onnx
 models/*.pth
 *.egg-info/
+node_modules/

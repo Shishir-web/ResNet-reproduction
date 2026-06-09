@@ -6,3 +6,6 @@ models/*.onnx
 models/*.pth
 *.egg-info/
 node_modules/
+models/*.pth
+models/*.onnx
+models/classes.json

@@ -9,3 +9,4 @@ node_modules/
 models/*.pth
 models/*.onnx
 models/classes.json
+node_modules/
